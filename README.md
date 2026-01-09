@@ -36,3 +36,26 @@ class JaberAbuZarqa {
 
   String[] languages = { "Java", "JavaScript", "Python" };
 }
+🔥 Highlights
+
+Full-time Manual QA Engineer with a Switzerland-based company (Remote)
+
+Experience with Manual, API, Automation, and Security Testing
+
+Strong background in Test Cases, Test Scenarios, Test Plans
+
+Hands-on Regression, Smoke, Functional & Exploratory Testing
+
+API Testing using Postman
+
+Automation Testing using Cypress
+
+Security Testing basics using OWASP ZAP
+
+🧰 Tech Toolbox
+<p align="center"> <img src="https://skillicons.dev/icons?i=js,java,python,git,github,postman,vscode,figma,linux,mysql" /> </p>
+📊 GitHub Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=jaberabuzarqa&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" width="48%" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=jaberabuzarqa&theme=tokyonight&hide_border=true&border_radius=10" width="48%" /> </p>
+⚡️ Motto
+
+“Quality is not tested in — it is built in, then verified with care.”
