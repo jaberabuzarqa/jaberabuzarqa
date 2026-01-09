@@ -1,16 +1,38 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Jaber Hatem Abu Zarqa 👋</h1>
+<h3 align="center">
+QA Engineer 🧪 | Manual, Automation, API & Security Testing 🔐 | Cybersecurity Background 🛡️
+</h3>
 
-<!--
-**jaberabuzarqa/jaberabuzarqa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="mailto:jaberabuzarka2020@gmail.com">
+    <img src="https://img.shields.io/badge/Email-jaberabuzarka2020%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/jaber-abu-zarqa-%F0%9F%87%B5%F0%9F%87%B8-b95136235" target="_blank">
+    <img src="https://img.shields.io/badge/Jaber%20Abu%20Zarqa-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/jaberabuzarqa" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-jaberabuzarqa-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="100%" height="3px" />
+
+## 🚀 About Me
+
+```java
+class JaberAbuZarqa {
+  String role = "QA Engineer";
+  String focus = "Manual | Automation (Cypress) | API (Postman) | Security Testing";
+  String domain = "Web, Mobile & Dashboard Applications";
+  String workStyle = "Agile | Remote";
+  String location = "Gaza, Palestine";
+
+  String[] tools = {
+    "Jira", "Zephyr / Zephyr Scale", "Postman", "Cypress",
+    "OWASP ZAP", "Git", "GitHub", "SQL"
+  };
+
+  String[] languages = { "Java", "JavaScript", "Python" };
+}
